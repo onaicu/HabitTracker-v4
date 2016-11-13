@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Habit Tracking</string>
+
+    <!-- Label for overflow menu option that inserts fake user data into the app [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <!-- Label for overflow menu option that deletes all habits data in the app [CHAR LIMIT=20] -->
+    <string name="action_delete_all_entries">Delete All Habits</string>
+
+    <!-- Title for the activity to add a new habit [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_new_habit">Add a Habbit</string>
+
+    <!-- Label for editor menu option to save habit and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current habit [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+    <!-- Label for overview category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_overview">Overview</string>
+
+    <!-- Label for To Do information in the editor [CHAR LIMIT=30] -->
+    <string name="category_ToDo">ToDo</string>
+
+    <!-- Label for Repetition information in the editor [CHAR LIMIT=30] -->
+    <string name="category_repetition">Repetition</string>
+
+    <!-- Label for Schedule information in the editor [CHAR LIMIT=30] -->
+    <string name="category_schedule">Schedule</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_habit_name">Habit</string>
+
+    <!-- Text hint for repetition field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_repetition">Repetion</string>
+
+    <!-- Text hint for repetition unit field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_repetition_unit">1 day</string>
+
+    !-- Text hint for to do field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_ToDo">ToDo</string>
+
+    <!-- Text hint for schedule field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_schedule">Schedule</string>
+
+    <!-- Label for dropdown menu option if when the habit is happening is unknown [CHAR LIMIT=20] -->
+    <string name="schedule_unknown">Unknown</string>
+
+    <!-- Label for dropdown menu option if the habit is happening daily [CHAR LIMIT=20] -->
+    <string name="schedule_workdays">Workdays</string>
+
+    <!-- Label for dropdown menu option if the habit is happening on weekend [CHAR LIMIT=20] -->
+    <string name="schedule_weekend">Weekend</string>
+</resources>
